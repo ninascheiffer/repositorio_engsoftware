@@ -1,0 +1,8 @@
+<?php
+  // Aluna: Marina Scheiffer
+  // Cod. 2117609
+  // ¨6º semestre ciência da computação
+
+  echo "Hello, Teacher!";
+
+?>
